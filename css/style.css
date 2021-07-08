@@ -593,43 +593,6 @@ width: 40px;
         font-weight: bold;
         color: white;
     }
-    
-
-    
-    
-    
-     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 @media (max-width: 575.98px) 
  {
@@ -719,6 +682,12 @@ width: 40px;
 }
 .symptoms-box-img img{
     margin-left: 230px;
+}
+     .button .btn {
+    margin-left: 100px;
+    margin-top: 10px;
+    width: 50px;
+    font-size: 10px;
 }
 }  
     
