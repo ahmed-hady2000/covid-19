@@ -25,7 +25,7 @@
 
 
 .navbar {
-    background: linear-gradient(to bottom , #ebebebc2 50%, #ffffffa4); 
+   background: linear-gradient(to bottom , #ebebeb 50%, #ffffff); 
        margin: auto;
        color: #000000af;
     
@@ -281,8 +281,12 @@ width: 40px;
     margin-right: 6px;
 }
 .button .btn{
-    margin-left: 800px;
-    margin-top: -90px;
+      margin-left: 35px;
+    margin-top: 10px;
+    height: 40px;
+    width: 250px;
+    font-size: 13px;
+    position: absolute;
 }
 .style-h33{
     color: #2a81ea;
